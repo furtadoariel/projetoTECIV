@@ -1,0 +1,85 @@
+NOME,Sexo,Idade,Computador,Internet,Gosta de joguinhos,Frequencia que costuma jogar,Facebook,Número de irmãos,Quantos estudam,Quantos trabalham,Quantos moram na casa,Profissão do pai,Profissão da mãe,ANB1,ANB2,ANB3,ANB4,ANB-NOTA,ACN1,ACN2,ACN3,ACN4,ACN5,ACN-NOTA,AAO1,AAO2,AAO3,AAO4,AAO5,AAO6,AAO-7 a,AAO-7b,AAO-7c,AAO-NOTA
+Alice Moreno Moreno,F,10,sim,sim,sim,5,sim,1,1,0,11,Eletrecista,Cozinheira,"1,4","2,6","3,6","1,9","9,5","0,3","2,4","2,8","1,2",0,"6,7",1,1,"0,5",0,2,"1,8",1,"0,5","0,5","8,3"
+Andreina Gonçalves Zorzolli,F,10,não,sim,sim,2,sim,2,2,1,6,Turmi??,Descansar ??,-,-,-,-,-,-,-,-,-,-,-,1,1,"0,5",0,"0,4",0,1,"0,5",0,"4,4"
+Andriele Jamile dos Santos Dias,,,,,,,,,,,,,,"1,8","2,5",3,"1,4","8,7","2,4","2,4","2,4",0,0,"7,2",0,1,1,0,0,"0,5",1,0,0,"3,5"
+Diuly da Costa Vitória,F,9,sim,não,sim,3,sim,3,1,0,4,Promotor Vendas,Do lar,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Geovana da Silva Rodrigues,F,9,sim,sim,sim,5,não,4,2,2,7,Metalugico,Faxineira,-,-,-,-,-,"2,4","2,4","1,9","1,2",0,"7,9",1,1,"0,5","1,5",2,"0,8",1,0,0,"7,8"
+Giordana Gonçalves dos Santos,F,9,sim,sim,sim,2,sim,3,3,0,7,Vendedor,Enfermeira,"1,8","2,6","3,6","1,3","9,3","2,4","2,4","2,6","1,2",1,"9,6",1,1,"0,5",0,2,"0,5",1,0,0,6
+Giovanna da Rosa e Silva,F,9,sim,sim,sim,2,sim,3,3,0,7,Pintor,Educador Social,"1,8","2,6","3,6","0,9","8,9","2,1","2,4","2,8","1,2",1,"9,5",1,1,"0,5",0,"0,6",0,1,0,0,"4,1"
+Hilary da Silva Oliveira,F,9,não,não,sim,3,sim,6,6,0,4,Servente de pedreiro,Chapeira,"1,8","2,6","1,5",0,"5,9",-,-,-,-,-,-,1,1,"0,5",0,0,"1,1",1,0,0,"4,6"
+Kamily da Cunha Gonçalves,F,10,sim,sim,sim,5,sim,0,0,0,3,Vigilante,Comerciante,"1,8","2,6","3,6","1,2","9,2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Larissa Victoria da Silva Mendes,,,,,,,,,,,,,,"1,8","2,6","3,5",2,"9,9","2,4","2,4",3,"1,2",1,10,-,-,-,-,-,-,-,-,-,-
+Lorena da Cunha Xavier,F,9,sim,sim,sim,5,sim,6,4,2,5,Motorista,Almoxarifado,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Maria Eduarda Brochado da Silva,F,9,sim,sim,sim,5,sim,1,0,0,4,Motorista,Balconista,-,-,-,-,-,"2,4","2,4",3,"1,2",0,9,1,1,"0,5",0,2,"0,5",1,0,"0,5","6,5"
+Maria Eduarda dos Anjos Marshall,F,9,sim,sim,sim,3,sim,2,2,0,4,Vigilante,Doméstica,"1,8","2,3","3,5","1,4",9,"2,4","2,4","1,2",0,0,6,1,1,"0,5",0,2,"0,8",1,0,"0,5","6,8"
+Melissa Velasco dos Santos,F,9,sim,sim,sim,5,não,2,2,0,5,Aux. Limpeza,Do lar,"1,8","2,6","3,4","0,5","8,3","2,4","2,4","1,8",0,0,"6,6",1,1,"0,5",0,2,"0,3",1,0,0,"5,8"
+Paula Roberta Rosso Soares,F,9,não,não,não,1,não,6,1,1,5,Aposentado,Do lar,"1,8","2,6","3,6","1,3","9,3","1,8","2,4",3,"1,2",1,"9,4",1,1,"0,5",0,2,0,1,0,"0,5",6
+Raiane Afonso Nunes,F,9,não,sim,sim,3,não,2,0,0,3,Autônomo,Do lar,"1,8","2,6","1,9",0,"6,3","2,4","2,4",3,"1,2",0,9,1,1,0,0,0,0,"0,2",0,0,"2,2"
+Raquel de Oliveira Ferreira,F,10,sim,sim,sim,5,não,3,1,2,3,Motorista,Servente,"1,8","2,5","3,6","0,9","8,8","2,1","2,4",3,0,1,"8,5",1,1,"0,5",0,2,"0,5",1,0,0,6
+Roberta Freitas,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-,1,1,"0,5",0,2,"0,5",1,0,0,6
+Vitória Botelho Machado,F,9,sim,sim,sim,5,sim,2,1,0,5,Porteiro,autônomo de vendas,"1,8","2,6","3,4","1,6","9,4","2,4","2,4","2,6","1,2",1,"9,6",-,-,-,-,-,-,-,-,-,-
+Yasmin Paula dos Santos,F,9,sim,sim,sim,5,sim,1,1,1,7,Conzinheiro,Do lar,"1,8","2,5","3,6","1,3","9,2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Juan Pablo Jahnke Farias,M,9,sim,sim,sim,2,sim,1,1,0,4,Pintor,Caixa Operadora,"1,8","2,5","3,4","1,7","9,4","1,8","2,4","1,5",0,0,"5,7",1,1,"0,5","1,5",2,"0,8",1,0,0,"7,8"
+Marcelo Seus Oliveira,M,9,sim,sim,sim,1,não,1,1,1,4,Comerciante,professora,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mauricio de Lima Morais,M,9,sim,sim,sim,3,não,0,0,0,2,Autônomo,Faxineira,"1,4","2,6","3,6","0,6","8,2","2,4","2,4","2,8",0,0,"7,6",1,1,"0,5","1,5",2,1,1,0,0,8
+Mickael da Silva Baade da Silva,M,9,sim,sim,sim,5,sim,2,2,0,5,Radialista,Operador de áudio,"1,8","2,5","3,6",2,"9,9","2,4","2,4",3,"1,2",1,10,1,1,"0,5",0,2,2,1,0,"0,5",8
+Nicolas Silva da Silva,M,11,sim,sim,sim,4,sim,1,1,1,8,Vigilante,Do lar,"1,8","2,6","3,6","1,7","9,7",-,-,-,-,-,-,1,1,"0,5",0,"0,7",0,1,0,0,"4,2"
+Otávio Bender de Borba,M,9,não,sim,sim,5,sim,2,2,0,5,Pedreiro,Doméstica,"1,8","2,6","3,6","0,8","8,8","0,9","1,8",0,0,1,"3,7",1,1,"0,5",0,"0,6",0,1,0,"0,5","4,6"
+Otávio da Silva Pacheco,M,9,sim,sim,sim,5,não,0,0,0,5,Frentista,Vendedora,"1,8","2,6","3,1","0,5",8,"2,1","2,4","1,4",0,0,"5,9",1,1,0,0,"1,4","0,4",1,"0,5","0,5","5,8"
+Otavio Silveira Pereira,M,10,sim,sim,sim,1,sim,2,1,0,4,Funerária,Caixa Operadora,"1,8","2,6","3,1","1,2","8,7",-,-,-,-,-,-,1,1,"0,5",0,"0,6",1,1,0,0,"5,1"
+Sloan de Pinho de Moura,M,9,sim,sim,sim,4,sim,1,1,0,4,Trabalha no BIG,Soldado,"1,8",2,"3,6",2,"9,4","2,4","2,4",3,0,1,"8,8",1,1,"0,5",0,"0,6","0,8",1,0,"0,5","5,4"
+Ariane Vieira Nunes,,,,,,,,,,,,,,"1,8","2,6","3,4","1,4","9,2",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Carolina Nunes de Nunes,F,9,sim,sim,sim,5,sim,0,0,0,3,Trailer,Trailer,"1,8","2,6","3,6",2,10,"1,2","2,4",3,"1,2",1,"8,8",1,1,"0,5","1,5",0,"1,8",1,0,0,"6,8"
+Gabriela Zorzoli Leite,F,9,sim,sim,sim,2,sim,2,1,0,3,nao sae,Monitor,"1,8","2,6","3,6",2,10,"2,4","2,4","2,8","1,2",1,"9,8",1,1,"0,5","1,5",2,"1,6",1,0,"0,5","9,1"
+Isadora Terres Cavalheiro,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Luiza Nunes Herrera,,,,,,,,,,,,,,"1,8","2,6","3,4",2,"9,8","2,1","2,4","2,8","1,2",1,"9,5",1,1,"0,5","1,5",2,2,1,"0,5","0,5",10
+Manuela de Quevedo Souza,,,,,,,,,,,,,,"1,8","2,6","3,6",2,10,"2,1","2,4",3,0,1,"8,5",1,1,"0,5","1,5","0,6","0,8",1,0,"0,5","6,9"
+Nicole Morales da Silveira,,,,,,,,,,,,,,-,-,-,-,-,"2,1","1,8",3,0,1,"7,9",1,1,"0,5","1,5",2,"0,5",1,"0,5","0,5","8,5"
+Sofia Nunes Brauveres Machado,F,9,sim,sim,não,1,não,3,1,1,3,guardador de carro,professora de apoio,-,-,-,-,-,"2,4","2,4","2,8","1,2",0,"8,8",1,1,"0,5",0,2,"1,9",1,"0,5","0,5","8,4"
+Thainá Mathias Dias,F,9,sim,sim,sim,5,sim,2,2,0,5,-,não sabe,1,"2,6","3,2","1,3","8,1","2,4","2,1","2,6","1,2",1,"9,3",1,1,"0,5",0,"1,3","1,1",1,"0,5","0,5","6,9"
+Vitória Freitas Duarte,,,,,,,,,,,,,,"1,8","2,6","3,6",2,10,"1,5","2,4",3,"1,2",1,"9,1",1,1,"0,5","1,5","1,4",2,1,"0,5",0,"8,9"
+Andrei Nunes Vahl,M,10,sim,não,sim,5,nao,1,1,1,3,aposentado,técnica de efermagem,"1,8","2,6","3,6","1,6","9,6","2,4","2,4","2,8",0,1,"8,6",1,1,"0,5",0,2,"0,4",1,0,0,"5,9"
+Carlos Henrique Goebel Teixeira,M,9,sim,sim,sim,5,não,1,0,0,3,Professor de matemática,professora de artes,"1,4","2,6","3,6","1,6","9,2","2,4","2,4",3,"1,2","0,5","9,5",1,1,"0,5",0,0,"1,1",1,"0,5","0,5","5,6"
+Cauê Pereira da Cunha,M,9,sim,sim,sim,5,sim,1,1,1,3,Vendedor de gas,Vendedor de gas,"1,8","2,6","3,2",0,"7,6",*,*,*,*,*,*,1,0,0,0,"1,6",0,1,0,0,"3,6"
+Charles de Souza Pires Júnior,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Gabriel Krollow Rodrigues,M,10,não,não,não,1,não,3,3,2,3,jockei,faxineira,"1,8","2,6","3,4","1,6","9,4","1,8","2,4","2,8",0,1,8,1,0,"0,5","1,5","1,7","0,8",1,0,"0,5",7
+Guilherme Terra Caldeira,M,9,sim,sim,sim,5,sim,1,1,0,5,não sabe,não sabe,-,-,-,-,-,"2,4","2,4",3,"1,2",1,10,1,1,"0,5",0,2,0,1,0,0,"5,5"
+João Miguel Farias Ajala Gonçalves,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Kallel Elesbão Alves da Silva,M,9,sim,sim,sim,5,sim,3,1,0,6,correio,azulzinho,"1,8","2,6","3,6",2,10,"2,4","2,4",3,0,1,"8,8",1,1,"0,5","1,5",2,"1,5",1,"0,5","0,5","9,5"
+Lucas Garcia Lemos,,,,,,,,,,,,,,"1,4","2,5","3,6",2,"9,5",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mauricio Ferreira Rosário,M,9,sim,sim,sim,4,sim,3,1,1,4,Caminhoneiro,Comércio,"1,8","2,6","3,6",2,10,-,-,-,-,-,-,1,1,"0,5","1,5",2,"1,7",1,"0,5","0,5","9,7"
+Miguel Hobuss de Araujo,M,9,sim,sim,sim,4,sim,1,1,0,5,enfermeiro,autonoma,"1,8","2,6","3,6",2,10,"2,4","2,4",3,"1,2",1,10,1,1,"0,5","1,5",2,"0,5",1,"0,5","0,5","8,5"
+Nathanael Kauê Pereira de Canto,,,,,,,,,,,,,,-,-,-,-,-,*,*,*,*,*,*,-,-,-,-,-,-,-,-,-,-
+Nicolas Gimenes Gomes,,,,,,,,,,,,,,"1,8","2,6","3,6","1,8","9,8","2,1","2,4",3,0,1,"8,5",-,-,-,-,-,-,-,-,-,-
+Ryan Silva Souza,M,10,sim,sim,sim,5,sim,0,0,0,5,Aposentado,-,"1,8","2,6","3,6","1,2","9,2","2,1","2,4","0,7","1,2",0,"6,4",-,-,-,-,-,-,-,-,-,-
+Vicente Rodrigues Teixeira Neto,M,9,sim,sim,sim,5,sim,1,1,0,4,professor de matemática,professor de matemática,"1,8","2,6","3,6",2,10,-,-,-,-,-,-,1,0,"0,5","1,5",2,"1,9",1,"0,5","0,5","8,9"
+Caroline Bues da Silva,,,,,,,,,,,,,,-,-,-,-,-,"2,1","2,4",3,,,"7,5",1,0,"0,5",0,"0,6",0,1,0,0,"3,1"
+Chaiane Moraes da Silva,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Debora Sirlei Vargas Matias,F,9,não,não,sim,3,nao,1,1,0,4,trabalha com arroz,do lar,"1,4","2,5","3,4","1,8","9,1","2,1","2,4","1,9",0,0,"6,4",1,1,"0,5","1,5",2,"1,5",1,0,"0,5",9
+Jamily Xavier da Silva,F,9,sim,não,sim,5,não,4,4,0,7,pedreiro,faxineiro,"1,8","2,2","3,6","0,8","8,4","2,1","2,4",3,0,0,"7,5",1,1,"0,5",0,2,"0,8",1,0,"0,5","6,8"
+Livia Ramos Porto,F,9,sim,não,sim,5,nao,1,0,1,4,nao sabe,domestica,"1,8","2,6","3,4","1,1","8,9","2,4","2,4","2,8","1,2",1,"9,8",1,0,0,"1,5",0,"0,5","0,2","0,5",0,"3,7"
+Luana Rodrigues Bueno,F,9,sim,sim,sim,5,sim,5,3,2,5,caminhoneiro?,não trabalha,"1,8","2,6","3,1",0,"7,5","1,2","2,4",3,0,0,"6,6",-,-,-,-,-,-,-,-,-,-
+Maria Eduarda Lindemann Nunes,F,9,sim,não,sim,5,sim,0,0,0,3,frigorifico,faxieira,"1,4","2,6","3,6","0,4",8,"2,1","2,4","2,8",0,1,"8,3",1,0,0,0,"1,7",0,"0,4",0,0,"3,1"
+Nicole de Souza Gomes,F,9,não,não,sim,2,não,4,4,1,7,não sabe,ferragem,"1,8","2,6","3,6","1,7","9,7","2,1","2,4",3,"1,2",1,"9,7",1,1,"0,5",0,2,"1,9",1,"0,5","0,5","8,4"
+Tamires Freire Furtado,F,10,não,não,não,3,não,6,3,2,6,-,do lar,"1,8","2,6","3,4",1,"8,8","2,1","2,1",3,,,"7,2",1,1,"0,5",0,2,0,1,0,0,"5,5"
+Alexandre Bunde Beskow,M,9,sim,sim,sim,5,sim,0,0,0,3,carvoeiro,faxineira/artesã,"1,8","2,5","3,6","1,2","9,1","2,4","2,4",3,"1,2",0,9,1,1,"0,5","1,5","1,3","1,8",1,0,"0,5","8,6"
+Augusto Hartwig Koop,M,10,sim,sim,sim,5,sim,1,1,0,4,caminhão,leite,"0,6","2,6","3,6",2,"8,8","2,4","2,4",3,"1,2",1,10,1,0,"0,5","1,5",2,"1,5",1,"0,5","0,5","8,5"
+Dailon da Silva Pereira,M,9,não,não,sim,2,não,3,1,1,6,caixa,cabeleleira,"1,8","2,5","3,6","1,6","9,5","1,8","2,4",3,,,"7,2",1,1,"0,5","1,5",0,"1,9",1,"0,5","0,5","7,9"
+Gabriel Oliveira da Silva,M,10,nao,não,sim,2,não,1,1,0,4,madereira,monitora da escola,"1,8","2,6","3,6","1,5","9,5","2,4","2,4",3,"1,2",1,10,1,1,"0,5",0,2,"1,9",1,"0,5","0,5","8,4"
+Igor Gregório Lourenço,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jonathan Serredeiro Fonseca,M,9,sim,sim,sim,1,nao,1,1,1,4,não sabe,não trabalha,"1,8",2,"3,4",1,"8,2","1,5","2,1",3,"1,2",1,"8,8",1,0,"0,5",0,"1,3","0,5",1,"0,5","0,5","5,3"
+Luis Felipe Pinto Alves,M,10,sim,sim,sim,5,não,2,1,0,4,caminhoneiro,professora,"1,8","2,5","3,6",2,"9,9","2,1","2,4",3,0,1,"8,5",1,1,"0,5","1,5",2,0,1,0,"0,5","7,5"
+Luiz Gustavo Rodrigues Villar,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Pablo Garcia da Silveira Filho,,,,,,,,,,,,,,"1,8","2,6","3,6","1,8","9,8","2,4","2,4",3,"1,2",1,10,1,1,"0,5","1,5",2,"1,9",1,0,"0,5","9,4"
+Samuel Brum Einhardt,M,11,não,não,sim,3,sim,3,2,1,5,motorista,faxineira,"1,8","2,5","3,3",0,"7,6","0,9","1,8","1,5",0,1,"5,2",1,1,"0,5","1,5",2,"0,8",1,0,0,"7,8"
+Everton Abraham Oliveira,M,10,sim,não,sim,3,não,5,2,1,4,entregador de gás,doméstica,"1,8","2,2","3,6","0,5","8,1","2,4","2,1",1,,,"5,5",1,0,"0,5",0,"0,3",0,"0,4",0,0,"2,2"
+Hiago Daniel Machado Carrasco,M,9,sim,?,sim,2,sim,2,1,0,5,estancieiro,não sabe,"1,4","2,6","3,5",2,"9,5",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Leonel Adriano Dias Braga,M,12,não,?,sim,1,não,2,0,1,4,lenha,não trabalha,"1,8","2,5","3,2","1,6","9,1","2,4","2,4",3,"1,2",1,10,1,1,"0,5","1,5",2,"1,7",1,"0,5","0,5","9,7"
+Lucas Soares Furtado,M,12,não,não,não,3,sim,4,3,0,7,pedreira,não trabalha,"1,4","2,3","3,6","0,3","7,6","1,8","0,9",0,0,0,"2,7",-,-,-,-,-,-,-,-,-,-
+Marlon Lacerda dos Santos,M,11,não,?,sim,2,não,6,3,3,6,?,nao tabalha,"1,8","2,6","3,6",2,10,"2,4","2,4","2,8","1,2",0,"8,8",0,1,"0,5","1,5",2,"1,1",1,0,0,"7,1"
+Natanael Chagas Silveira,M,9,não,sim,sim,2,sim,0,0,0,3,?,domestica,"1,8","2,6","3,6","1,1","9,1","1,8","2,4","2,5","1,2",1,"8,9",1,1,"0,5",0,2,"1,8",1,0,"0,5","7,8"
+Nelton de Souza Vargas,,,,,,,,,,,,,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rafael Soares de Borba,M,10,não,não,sim,2,nao,2,2,não sabe,4,?,?,"1,8","2,5","3,6","1,4","9,3","2,4","2,4","2,6","1,2",1,"9,6",1,1,"0,5","1,5",2,1,1,0,0,8
+Ricardo Lima dos Santos,M,9,sim,sim,sim,5,sim,4,0,2,4,não sabe,,"1,4","2,5","3,6","1,3","8,8","2,4","2,4",3,"1,2",1,10,1,1,"0,5",0,2,"0,3",1,0,"0,5","6,3"
+Ricardo Nunes Silveira,M,11,sim,não,sim,4,sim,1,0,0,2,Jardineiro,Doméstica,"1,4","2,3","3,4",0,"7,1","2,4","2,1",3,"1,2",0,"8,7",1,1,"0,5","1,5","1,3","0,4",0,"0,5",0,"6,2"
+Samuel Larroque Broqua,M,9,não,não,sim,5,não,5,3,1,2,professor de capoeira,faxineira,"1,8","2,5","3,6",0,"7,9","1,8","2,4","2,2","1,2",1,"8,6",1,1,"0,5","1,5",0,"1,5",1,"0,5",0,7
